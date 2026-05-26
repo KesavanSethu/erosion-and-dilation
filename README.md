@@ -66,17 +66,17 @@ plt.axis("off")
 Output:
 Display the input Image
 
-<img width="719" height="556" alt="image" src="https://github.com/user-attachments/assets/b69ffed2-bbc6-4dd8-b7c4-26230eb9ac19" />
+<img width="686" height="547" alt="Screenshot 2026-05-26 160745" src="https://github.com/user-attachments/assets/5c189e74-324a-4769-9ab8-3567f741386e" />
 
 
 Display the Eroded Image
 
-<img width="732" height="553" alt="image" src="https://github.com/user-attachments/assets/3e14c642-bcbd-4208-a1c9-b187ce2df759" />
+<img width="677" height="542" alt="Screenshot 2026-05-26 160815" src="https://github.com/user-attachments/assets/b6c12784-7907-47c7-9e50-908af75c0d82" />
 
 
 Display the Dilated Image
 
-<img width="748" height="565" alt="image" src="https://github.com/user-attachments/assets/6c455c7d-ddca-408c-affe-078b8b96c20c" />
+<img width="701" height="549" alt="Screenshot 2026-05-26 160832" src="https://github.com/user-attachments/assets/03dd2009-06ea-4407-8cd6-b5af6fc4e14c" />
 
 
 
